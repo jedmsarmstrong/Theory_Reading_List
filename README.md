@@ -51,3 +51,6 @@ Oberfield, E., Rossi-Hansberg, E., Sarte, P.-D., & Trachter, N. (2020). Plants
 in space (Tech. Rep.). National Bureau of Economic Research.
 
 Peters, M. (2020). Heterogeneous markups, growth, and endogenous misallocation. Econometrica, 88 (5), 2037-2073.
+
+Rubinstein, A., & Wolinsky, A. (1987). Middlemen. The Quarterly Journal
+of Economics, 102 (3), 581-593.

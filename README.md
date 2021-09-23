@@ -5,11 +5,13 @@ experience, human capital, and wages: A tractable equilibrium search
 model of wage dynamics. American Economic Review , 104 (6), 1551-
 96.
 
+Baqaee, D. R., & Farhi, E. (2019). The macroeconomic impact of microeconomic shocks: beyond hulten’s theorem. Econometrica, 87 (4),
+1155-1203.
+
 Christiano, L. J., Eichenbaum, M. S., & Trabandt, M. (2016). Unemployment
 and business cycles. Econometrica, 84 (4), 1523-1569.
 
-Fajgelbaum, P. D., Schaal, E., & Taschereau-Dumouchel, M. (2017). Uncer-
-tainty traps. The Quarterly Journal of Economics, 132 (4), 1641-1692.
+Fajgelbaum, P. D., Schaal, E., & Taschereau-Dumouchel, M. (2017). Uncertainty traps. The Quarterly Journal of Economics, 132 (4), 1641-1692.
 
 Garicano, L., & Rossi-Hansberg, E. (2006). Organization and inequality in
 a knowledge economy. The Quarterly Journal of Economics, 121 (4),
@@ -48,5 +50,4 @@ bias. American Economic Review , 111 (1), 324-63.
 Oberfield, E., Rossi-Hansberg, E., Sarte, P.-D., & Trachter, N. (2020). Plants
 in space (Tech. Rep.). National Bureau of Economic Research.
 
-Peters, M. (2020). Heterogeneous markups, growth, and endogenous misal-
-location. Econometrica, 88 (5), 2037-2073.
+Peters, M. (2020). Heterogeneous markups, growth, and endogenous misallocation. Econometrica, 88 (5), 2037-2073.

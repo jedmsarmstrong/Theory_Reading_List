@@ -11,6 +11,9 @@ Baqaee, D. R., & Farhi, E. (2019). The macroeconomic impact of microeconomic sho
 Christiano, L. J., Eichenbaum, M. S., & Trabandt, M. (2016). Unemployment
 and business cycles. Econometrica, 84 (4), 1523-1569.
 
+Duffie, D., Gârleanu, N., & Pedersen, L. H. (2005). Over-the-counter markets. Econometrica, 73 (6), 1815-1847.
+
+
 Fajgelbaum, P. D., Schaal, E., & Taschereau-Dumouchel, M. (2017). Uncertainty traps. The Quarterly Journal of Economics, 132 (4), 1641-1692.
 
 Garicano, L., & Rossi-Hansberg, E. (2006). Organization and inequality in

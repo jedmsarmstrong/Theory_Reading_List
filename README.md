@@ -33,8 +33,7 @@ Economic Review , 109 (1), 153–70.
 
 Duffie, D., Gârleanu, N., & Pedersen, L. H. (2005). Over-the-counter markets. Econometrica, 73 (6), 1815–1847.
 
-Evans, G. W., & Honkapohja, S. (2003). Expectations and the stability prob-
-lem for optimal monetary policies. The Review of Economic Studies,
+Evans, G. W., & Honkapohja, S. (2003). Expectations and the stability problem for optimal monetary policies. The Review of Economic Studies,
 70 (4), 807–824.
 
 Fajgelbaum, P. D., Schaal, E., & Taschereau-Dumouchel, M. (2017). Uncertainty traps. The Quarterly Journal of Economics, 132 (4), 1641–1692.
